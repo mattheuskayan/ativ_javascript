@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    font-family: sans-serif;
+}
+span {
+    font-size: 30px;
+    font-weight: 600;
+}
+p {
+    font-size: 20px;
+}
+input, button {
+    font-size: 20px;
+    margin: 12px;
+}
